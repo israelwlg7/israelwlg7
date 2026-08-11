@@ -1,19 +1,23 @@
 <div align="center">
 
-  <h1>🐍 Programador Python</h1>
+  <!-- BANNER HEADER ANIMADO (Capsule Render - Azul Frio / Dark Navy) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:1D4ED8&text=Python%20Developer&fontColor=ffffff&fontSize=55&animation=fadeIn" width="100%" alt="Python Developer Banner" />
 
-  <!-- EFEITO DE DIGITAÇÃO ANIMADO -->
+  <br/><br/>
+
+  <!-- DIGITAÇÃO ANIMADA -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- BADGES DE STATUS -->
+  <!-- BADGES DE STATUS ESTILO NICEZINKS -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Linguagem-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/SENAC-Concluído-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAC" />
+    <img src="https://img.shields.io/badge/PYTHON-MAIN%20LANGUAGE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Main Language" />
+    <img src="https://img.shields.io/badge/DJANGO-FRAMEWORK-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/SENAC-CONCLUÍDO-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAC" />
+    <img src="https://img.shields.io/badge/DESKTOP-CUSTOMTKINTER-0284C7?style=for-the-badge" alt="CustomTkinter" />
   </p>
 
 </div>

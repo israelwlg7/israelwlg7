@@ -103,6 +103,9 @@ print(dev.meu_foco())
   <a href="mailto:israelshalon02@gmail.com">
     <img src="https://img.shields.io/badge/Email-israelshalon02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://wa.me/5592994108026" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(92)%2099410--8026-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="https://github.com/israelwlg7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-israelwlg7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>

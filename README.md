@@ -81,6 +81,21 @@ print(dev.meu_foco())
 
 ---
 
+### 📜 Cursos & Certificações
+
+| Curso / Certificação | Instituição | Carga Horária | Credencial / Código |
+| :--- | :--- | :---: | :--- |
+| ☁️ **AWS Academy Graduate - Cloud Web Application Builder** | AWS Academy | 12h | [Badge no Credly](https://www.credly.com/go/hypFBK0G) |
+| 🐍 **Formação em Programação Python** *(Algoritmos, GUI & Web)* | SENAC | 156h | Concluído (08/2026) |
+| 🐍 **Python** | Santander Open Academy | 8h | Cód: `OA-2026-0826003113956` |
+| 🌐 **Crie um Site Simples usando HTML, CSS e JavaScript** | Fundação Bradesco | 2h | Cód: `62F27AE6-CF5D-4B5B-A6E6-1F04E4E2C9DE` |
+| 📊 **Excel Instrumental** | SENAC | 20h | Concluído (06/2026) |
+| 📝 **Word Instrumental** | SENAC | 20h | Concluído (06/2026) |
+| 🖥️ **Windows Instrumental** | SENAC | 20h | Concluído (06/2024) |
+
+---
+
+
 ### Contato
 
 <p>

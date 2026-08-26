@@ -72,7 +72,7 @@ print(dev.meu_foco())
 
 | Projeto | Tecnologia | Descrição | Status |
 | :--- | :--- | :--- | :---: |
-| 🚗 **[Sistema de Estacionamento](https://github.com/israelwlg7)** | Python / CustomTkinter | Controle de entrada/saída de veículos, cálculo de tarifas e gestão de vagas. | Concluído |
+| 🚗 **[Sistema de Estacionamento Web](https://github.com/israelwlg7/sistema-estacionamento-web)** | Python / Django | Sistema completo de gestão de estacionamentos com mapa de vagas, pagamentos e ocorrências (desenvolvido em equipe). | Concluído |
 | 📋 **[Sistema de Cadastro](https://github.com/israelwlg7/sistema-cadastro-django)** | Python / Django / SQLite | Gerenciamento e autenticação de usuários com banco de dados. | Concluído |
 | 🌐 **[Portfólio em Django](https://github.com/israelwlg7/portfolio-django)** | Python / Django | Aplicação web para apresentação de projetos em Django. | Concluído |
 | 🛒 **Mercadinho & Estoque** | Python / Django | Sistema de controle de vendas e gestão de estoque. | Concluído |

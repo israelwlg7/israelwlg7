@@ -1,118 +1,63 @@
-<div align="center">
+﻿# 👋 Olá! Sou Israel Shalon Oliveira Leitão
 
-  <!-- BANNER HEADER ANIMADO (Capsule Render - Azul Frio / Dark Navy) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:1D4ED8&text=Python%20Developer&fontColor=ffffff&fontSize=55&animation=fadeIn" width="100%" alt="Python Developer Banner" />
-
-  <br/><br/>
-
-  <!-- DIGITAÇÃO ANIMADA -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- BADGES DE STATUS ESTILO NICEZINKS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/PYTHON-MAIN%20LANGUAGE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Main Language" />
-    <img src="https://img.shields.io/badge/DJANGO-FRAMEWORK-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/SENAC-CONCLUÍDO-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAC" />
-    <img src="https://img.shields.io/badge/DESKTOP-CUSTOMTKINTER-0284C7?style=for-the-badge" alt="CustomTkinter" />
-  </p>
-
-</div>
+Sou um estudante e desenvolvedor em formação contínua, apaixonado por tecnologia e programação. Foco meus estudos no desenvolvimento de soluções completas com **Python**, aplicações web com **Django**, interfaces desktop modernas com **CustomTkinter** e desenvolvimento Front-End com **HTML5**, **CSS3** e **JavaScript**.
 
 ---
 
-### Sobre Mim
-
-```python
-class Programador:
-    def __init__(self):
-        self.nome = "Israel Shalon"
-        self.linguagem_principal = "Python"
-        self.formacao = "Formação em Python pelo SENAC"
-        self.localizacao = "Manaus - AM"
-
-    def meu_foco(self):
-        return "Desenvolver sistemas funcionais em Python usando Django e CustomTkinter!"
-
-dev = Programador()
-print(dev.meu_foco())
-```
-
-- **Formação:** Formado no curso de **Python do SENAC**, com foco em lógica de programação, estrutura de dados e orientação a objetos.
-- **Especialidade:** Programação em **Python**, desenvolvendo aplicações web com **Django** e softwares de desktop com **CustomTkinter**.
-- **Bancos de Dados:** Uso de **SQLite** para criação e consulta de dados.
-- **Outros conhecimentos:** Noções básicas de **HTML, CSS e JavaScript**.
+### 📍 Sobre Mim
+* 🎓 **Estudante do Ensino Médio**
+* 🏫 **Aluno em formações de Tecnologia / Programação (SENAC)**
+* 🏠 **Manaus - AM, Brasil**
 
 ---
 
-### Tecnologias & Ferramentas
-
-#### Linguagem Principal & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-#### Noções Básicas
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+### 📜 Certificações
+* 🎓 **Aperfeiçoamento em HTML e CSS - Criação de Websites** | **SENAC** (36 horas)
+  * *Período:* 24/08/2026 a 03/09/2026
+  * 📄 [Visualizar Certificado em PDF](./certificados/Certificado_SENAC_HTML_CSS.pdf)
 
 ---
 
-### Projetos em Destaque
-
-| Projeto | Tecnologia | Descrição | Status |
-| :--- | :--- | :--- | :---: |
-| 🚗 **[Sistema de Estacionamento Web](https://github.com/israelwlg7/sistema-estacionamento-web)** | Python / Django | Sistema completo de gestão de estacionamentos com mapa de vagas, pagamentos e ocorrências (desenvolvido em equipe). | Concluído |
-| 📋 **[Sistema de Cadastro](https://github.com/israelwlg7/sistema-cadastro-django)** | Python / Django / SQLite | Gerenciamento e autenticação de usuários com banco de dados. | Concluído |
-| 🌐 **[Portfólio em Django](https://github.com/israelwlg7/portfolio-django)** | Python / Django | Aplicação web para apresentação de projetos em Django. | Concluído |
-| 🛒 **Mercadinho & Estoque** | Python / Django | Sistema de controle de vendas e gestão de estoque. | Concluído |
-| 🎧 **Gerenciador de Chamados** | Python / Django | Sistema de suporte técnico e atendimento. | Concluído |
-| 📚 **[Exercícios de Python](https://github.com/israelwlg7/exercicios-python)** | Python / Tkinter | Exercícios de lógica, orientação a objetos e interfaces gráficas. | Concluído |
+### 🛠️ Tecnologias & Ferramentas
+* **Linguagens:** Python, JavaScript, HTML5, CSS3, SQL
+* **Desenvolvimento Web:** Django (Rotas, Views, MVT, Templates, Autenticação, CRUDs)
+* **Desenvolvimento Front-End:** HTML semântico, CSS moderno (Flexbox/Grid), manipulação do DOM em JS
+* **Interfaces Desktop:** Tkinter / CustomTkinter (aplicações gráficas interativas e modernas)
+* **Bancos de Dados:** SQLite (modelagem relacional, consultas, persistência de dados)
+* **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
-### 📜 Cursos & Certificações
+### 📂 Meus Projetos Principais
 
-| Curso / Certificação | Instituição | Carga Horária | Credencial / Código |
-| :--- | :--- | :---: | :--- |
-| ☁️ **AWS Academy Graduate - Cloud Web Application Builder** | AWS Academy | 12h | [Badge no Credly](https://www.credly.com/go/hypFBK0G) |
-| 🐍 **Formação em Programação Python** *(Algoritmos, GUI & Web)* | SENAC | 156h | Concluído (08/2026) |
-| 🐍 **Python** | Santander Open Academy | 8h | Cód: `OA-2026-0826003113956` |
-| 🐍 **Linguagem de Programação Python - Básico** | Fundação Bradesco | 18h | Cód: `7CF29B0D-3372-422A-AFE1-DEE6EB4DDEE8` |
-| 🌐 **Crie um Site Simples usando HTML, CSS e JavaScript** | Fundação Bradesco | 2h | Cód: `62F27AE6-CF5D-4B5B-A6E6-1F04E4E2C9DE` |
-| 📊 **Excel Instrumental** | SENAC | 20h | Concluído (06/2026) |
-| 📝 **Word Instrumental** | SENAC | 20h | Concluído (06/2026) |
-| 🖥️ **Windows Instrumental** | SENAC | 20h | Concluído (06/2024) |
+#### 💼 [Mural de Vagas (Django)](https://github.com/israelwlg7/mural-vagas-django)
+Portal completo para publicação e busca de oportunidades profissionais com filtros por modalidade (Remoto/Híbrido/Presencial), tipos de contrato e níveis de senioridade.
+
+#### 🚗 [Sistema de Estacionamento Web](https://github.com/israelwlg7/sistema-estacionamento-web)
+Sistema web completo para gestão de estacionamento desenvolvido em Python e Django com controle de vagas, fluxo de entrada/saída e relatórios.
+
+#### 📦 [Controle de Estoque (Django)](https://github.com/israelwlg7/controle-estoque-django)
+Aplicação web voltada para o gerenciamento ágil de inventário, categorias, quantidades em estoque e precificação.
+
+#### 🎫 [Gerenciador de Chamados e Suporte](https://github.com/israelwlg7/gerenciador-chamados-django)
+Sistema de helpdesk para registro, acompanhamento e resolução de tickets de atendimento e suporte técnico.
+
+#### 🛒 [Mercadinho Web (Django)](https://github.com/israelwlg7/mercadinho-django)
+Aplicação web para catálogo e gerenciamento de produtos e itens de mercado.
+
+#### 👤 [Sistema de Cadastro de Usuários](https://github.com/israelwlg7/sistema-cadastro-django)
+Aplicação web em Django com fluxo completo de formulários, validações e persistência de dados de usuários.
+
+#### 🌐 [Portfólio em Django](https://github.com/israelwlg7/portfolio-django)
+Web app em Django concebido como galeria interativa para apresentação de projetos e experiências.
+
+#### 🎨 [Projetos Front-End: HTML, CSS & JavaScript](https://github.com/israelwlg7/projetos-web-html-css-js)
+Coleção de aplicações web front-end incluindo sites institucionais responsivos, slider/carrossel interativo de cards com JavaScript puro e componentes visuais.
+
+#### 📚 [Exercícios e Estudos de Python](https://github.com/israelwlg7/exercicios-python)
+Repositório central com dezenas de exercícios práticos cobrindo Lógica de Programação, POO, Banco de Dados SQLite, interfaces Tkinter e mini games em CustomTkinter.
 
 ---
 
-
-### Contato
-
-<p>
-  <a href="mailto:israelshalon02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-israelshalon02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/5592994108026" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(92)%2099410--8026-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/israelwlg7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-israelwlg7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  Criado por Israel.
-</div>
+### 📫 Como me encontrar
+* **GitHub:** [@israelwlg7](https://github.com/israelwlg7)

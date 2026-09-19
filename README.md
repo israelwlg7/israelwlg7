@@ -7,7 +7,7 @@
 
   <!-- DIGITAÇÃO ANIMADA -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Desenvolvedor+Web+e+Front-End" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Projetos+Web+e+Desktop" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/DJANGO-FRAMEWORK-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/SENAC-CONCLUÍDO-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAC" />
     <img src="https://img.shields.io/badge/DESKTOP-CUSTOMTKINTER-0284C7?style=for-the-badge" alt="CustomTkinter" />
-    <img src="https://komarev.com/ghpvc/?username=israelwlg7&color=1D4ED8&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao Perfil" />
   </p>
 
 </div>
@@ -32,31 +31,20 @@ class Programador:
     def __init__(self):
         self.nome = "Israel Shalon"
         self.linguagem_principal = "Python"
-        self.formacao = "Formação em Python & HTML/CSS pelo SENAC"
+        self.formacao = "Formação Python & HTML/CSS (SENAC)"
         self.localizacao = "Manaus - AM"
 
     def meu_foco(self):
-        return "Desenvolver sistemas funcionais em Python usando Django, CustomTkinter e Front-End Web!"
+        return "Criar sistemas em Python com Django e CustomTkinter!"
 
 dev = Programador()
 print(dev.meu_foco())
 ```
 
-<br/>
-
-### 🎓 Formação & Especialidades
-
-> ### 🏫 **Formações Oficiais (SENAC):**
-> Formado nos cursos de **Formação em Programação Python (156h)** e **HTML & CSS - Criação de Websites (36h)** pelo **SENAC**, com sólida base em algoritmos, estrutura de dados, orientação a objetos e desenvolvimento web responsivo.
-
-> ### 🚀 **Especialidade & Foco Técnico:**
-> * **Desenvolvimento Web Back-End:** Criação de sistemas robustos e APIs com **Python & Django** (Arquitetura MVT, Autenticação, CRUDs, Filtros).
-> * **Desenvolvimento Front-End:** Interfaces web com **HTML5 semântico, estilização CSS3 moderna (Flexbox/Grid/Transições)** e interatividade com **JavaScript Vanilla (DOM)**.
-> * **Aplicações Desktop:** Criação de softwares e interfaces gráficas modernas e responsivas com **Tkinter e CustomTkinter**.
-
-> ### 🗄️ **Banco de Dados & Ferramentas:**
-> * Modelagem de dados relacionais e persistência com **SQLite**.
-> * Versionamento e colaboração profissional com **Git e GitHub**, e ambiente de desenvolvimento no **VS Code**.
+- 🎓 **Formação:** Formado nos cursos de **Python** e **HTML & CSS** pelo **SENAC**, com foco em algoritmos, POO e desenvolvimento web.
+- 🚀 **Especialidade:** Criação de aplicações web dinâmicas com **Django** e softwares desktop modernos com **CustomTkinter**.
+- 🗄️ **Bancos de Dados:** Modelagem e persistência estruturada com **SQLite**.
+- 🌐 **Front-End:** Desenvolvimento de interfaces com **HTML5, CSS3 e JavaScript**.
 
 ---
 
@@ -79,14 +67,6 @@ print(dev.meu_foco())
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CustomTkinter-0284C7?style=for-the-badge" alt="CustomTkinter" />
 </p>
-
----
-
-### 🔥 Atividade & Sequência no GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=israelwlg7&theme=tokyonight&background=0D1117&stroke=1D4ED8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -141,5 +121,5 @@ print(dev.meu_foco())
 <br/>
 
 <div align="center">
-  <sub>Desenvolvido por Israel Shalon Oliveira Leitão 🚀</sub>
+  <h3>Criado por Israel Shalon 🚀</h3>
 </div>

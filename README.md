@@ -7,7 +7,7 @@
 
   <!-- DIGITAÇÃO ANIMADA -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Projetos+Web+e+Desktop" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Projetos+Web+e+Desktop" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -30,8 +30,8 @@
 class Programador:
     def __init__(self):
         self.nome = "Israel Shalon"
+        self.status = "Estudante & Desenvolvedor em evolução contínua"
         self.linguagem_principal = "Python"
-        self.formacao = "Formação Python & HTML/CSS (SENAC)"
         self.localizacao = "Manaus - AM"
 
     def meu_foco(self):
@@ -41,9 +41,10 @@ dev = Programador()
 print(dev.meu_foco())
 ```
 
-- 🎓 **Formação:** Formado nos cursos de **Python** e **HTML & CSS** pelo **SENAC**, com foco em lógica, POO e desenvolvimento web.
+- 🎓 **Perfil:** Estudante do Ensino Médio em Manaus - AM, apaixonado por tecnologia e em constante evolução no desenvolvimento de software.
+- 🏫 **Formação:** Formado nos cursos de **Python** e **HTML & CSS** pelo **SENAC**, com sólida base em lógica de programação, POO e criação de páginas web.
 - 🚀 **Especialidade:** Criação de aplicações web dinâmicas com **Django** e softwares desktop modernos com **CustomTkinter**.
-- 🗄️ **Bancos de Dados:** Modelagem e persistência estruturada com **SQLite**.
+- 🗄️ **Bancos de Dados:** Modelagem relacional e persistência estruturada com **SQLite**.
 - 🌐 **Front-End:** Desenvolvimento de interfaces com **HTML5, CSS3 e JavaScript**.
 
 ---

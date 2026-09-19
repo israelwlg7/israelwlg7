@@ -31,6 +31,7 @@ class Programador:
     def __init__(self):
         self.nome = "Israel Shalon"
         self.status = "Estudante & Desenvolvedor em evolução contínua"
+        self.formacao = "Formação Python & HTML/CSS (SENAC)"
         self.linguagem_principal = "Python"
         self.localizacao = "Manaus - AM"
 

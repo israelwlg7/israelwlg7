@@ -7,7 +7,7 @@
 
   <!-- DIGITAÇÃO ANIMADA -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Desenvolvedor+Web+e+Front-End" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Desenvolvedor+Web+e+Front-End" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/DJANGO-FRAMEWORK-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/SENAC-CONCLUÍDO-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENAC" />
     <img src="https://img.shields.io/badge/DESKTOP-CUSTOMTKINTER-0284C7?style=for-the-badge" alt="CustomTkinter" />
+    <img src="https://komarev.com/ghpvc/?username=israelwlg7&color=1D4ED8&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao Perfil" />
   </p>
 
 </div>
@@ -31,20 +32,31 @@ class Programador:
     def __init__(self):
         self.nome = "Israel Shalon"
         self.linguagem_principal = "Python"
-        self.formacao = "Formação em Python pelo SENAC"
+        self.formacao = "Formação em Python & HTML/CSS pelo SENAC"
         self.localizacao = "Manaus - AM"
 
     def meu_foco(self):
-        return "Desenvolver sistemas funcionais em Python usando Django, CustomTkinter e Web!"
+        return "Desenvolver sistemas funcionais em Python usando Django, CustomTkinter e Front-End Web!"
 
 dev = Programador()
 print(dev.meu_foco())
 ```
 
-- 🎓 **Formação:** Formado nos cursos de **Python** e **HTML/CSS** pelo **SENAC**, com sólida base em lógica de programação, orientação a objetos e desenvolvimento web.
-- 🚀 **Especialidade:** Criação de aplicações web dinâmicas com **Django** e softwares desktop modernos com **CustomTkinter**.
-- 🗄️ **Bancos de Dados:** Modelagem e persistência com **SQLite**.
-- 🌐 **Front-End:** Criação de interfaces responsivas com **HTML5**, **CSS3** e dinamismo em **JavaScript**.
+<br/>
+
+### 🎓 Formação & Especialidades
+
+> ### 🏫 **Formações Oficiais (SENAC):**
+> Formado nos cursos de **Formação em Programação Python (156h)** e **HTML & CSS - Criação de Websites (36h)** pelo **SENAC**, com sólida base em algoritmos, estrutura de dados, orientação a objetos e desenvolvimento web responsivo.
+
+> ### 🚀 **Especialidade & Foco Técnico:**
+> * **Desenvolvimento Web Back-End:** Criação de sistemas robustos e APIs com **Python & Django** (Arquitetura MVT, Autenticação, CRUDs, Filtros).
+> * **Desenvolvimento Front-End:** Interfaces web com **HTML5 semântico, estilização CSS3 moderna (Flexbox/Grid/Transições)** e interatividade com **JavaScript Vanilla (DOM)**.
+> * **Aplicações Desktop:** Criação de softwares e interfaces gráficas modernas e responsivas com **Tkinter e CustomTkinter**.
+
+> ### 🗄️ **Banco de Dados & Ferramentas:**
+> * Modelagem de dados relacionais e persistência com **SQLite**.
+> * Versionamento e colaboração profissional com **Git e GitHub**, e ambiente de desenvolvimento no **VS Code**.
 
 ---
 
@@ -70,17 +82,10 @@ print(dev.meu_foco())
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🔥 Atividade & Sequência no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israelwlg7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=60A5FA" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelwlg7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israelwlg7&theme=tokyonight&hide_border=true&background=0D1117&stroke=1D4ED8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=israelwlg7&theme=tokyonight&background=0D1117&stroke=1D4ED8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 ---

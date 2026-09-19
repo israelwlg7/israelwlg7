@@ -7,7 +7,7 @@
 
   <!-- DIGITAÇÃO ANIMADA -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Projetos+Web+e+Desktop" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Formado+pelo+SENAC;Foco+em+Django+%26+CustomTkinter;Projetos+Web+e+Desktop" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -30,23 +30,21 @@
 class Programador:
     def __init__(self):
         self.nome = "Israel Shalon"
-        self.stack_principal = ["Python", "Django", "CustomTkinter"]
-        self.conhecimentos_web = ["HTML5", "CSS3", "JavaScript", "SQLite"]
-        self.formacao = "SENAC (Programação Python & HTML/CSS)"
-        self.cidade = "Manaus - AM"
+        self.linguagem_principal = "Python"
+        self.formacao = "Formação Python & HTML/CSS (SENAC)"
+        self.localizacao = "Manaus - AM"
 
-    def objetivo(self):
-        return "Construir sistemas eficientes, intuitivos e escaláveis!"
+    def meu_foco(self):
+        return "Criar sistemas em Python com Django e CustomTkinter!"
 
 dev = Programador()
-print(dev.objetivo())
+print(dev.meu_foco())
 ```
 
-* 🎓 **Formação & Estudos:** Estudante do Ensino Médio em Manaus - AM e desenvolvedor em constante evolução. Concluí as qualificações de **Formação em Programação Python (156h)** e **HTML e CSS - Criação de Websites (36h)** no **SENAC**, além de certificações pela **AWS Academy**, **Santander** e **Fundação Bradesco**.
-* 🌐 **Desenvolvimento Web (Django):** Experiência prática na criação de aplicações web completas com arquitetura MVT, rotas dinâmicas, autenticação de usuários, templates estilizados e operações de CRUD com persistência no **SQLite**.
-* 🖥️ **Aplicações Desktop (CustomTkinter / Tkinter):** Desenvolvimento de softwares com interfaces visuais modernas, layouts responsivos, validação de entradas e foco na facilidade de uso.
-* 🎨 **Front-End & Interatividade:** Criação de páginas semânticas em **HTML5**, estilização avançada com **CSS3 (Flexbox/Grid)** e manipulação dinâmica do DOM em **JavaScript Vanilla**.
-* 🎯 **Foco Atual:** Aprimorar continuamente meus projetos práticos, aplicando boas práticas de código, versionamento com **Git/GitHub** e arquitetura limpa.
+- 🎓 **Formação:** Formado nos cursos de **Python** e **HTML & CSS** pelo **SENAC**, com foco em lógica, POO e desenvolvimento web.
+- 🚀 **Especialidade:** Criação de aplicações web dinâmicas com **Django** e softwares desktop modernos com **CustomTkinter**.
+- 🗄️ **Bancos de Dados:** Modelagem e persistência estruturada com **SQLite**.
+- 🌐 **Front-End:** Desenvolvimento de interfaces com **HTML5, CSS3 e JavaScript**.
 
 ---
 
